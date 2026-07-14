@@ -19,9 +19,22 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0389-find-the-difference](https://github.com/MrAman1/Leetcode-Coding-Solutions/tree/master/0389-find-the-difference) |
 | [0412-fizz-buzz](https://github.com/MrAman1/Leetcode-Coding-Solutions/tree/master/0412-fizz-buzz) |
 ## Simulation
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/MrAman1/Leetcode-Coding-Solutions/tree/master/0412-fizz-buzz) |
+## Hash Table
+|  |
+| ------- |
+| [0389-find-the-difference](https://github.com/MrAman1/Leetcode-Coding-Solutions/tree/master/0389-find-the-difference) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0389-find-the-difference](https://github.com/MrAman1/Leetcode-Coding-Solutions/tree/master/0389-find-the-difference) |
+## Sorting
+|  |
+| ------- |
+| [0389-find-the-difference](https://github.com/MrAman1/Leetcode-Coding-Solutions/tree/master/0389-find-the-difference) |
 <!---LeetCode Topics End-->
