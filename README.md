@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0345-reverse-vowels-of-a-string](https://github.com/MrAman1/Leetcode-Coding-Solutions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0389-find-the-difference](https://github.com/MrAman1/Leetcode-Coding-Solutions/tree/master/0389-find-the-difference) |
 | [0412-fizz-buzz](https://github.com/MrAman1/Leetcode-Coding-Solutions/tree/master/0412-fizz-buzz) |
+| [1002-find-common-characters](https://github.com/MrAman1/Leetcode-Coding-Solutions/tree/master/1002-find-common-characters) |
 ## Simulation
 |  |
 | ------- |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/MrAman1/Leetcode-Coding-Solutions/tree/master/0139-word-break) |
 | [0389-find-the-difference](https://github.com/MrAman1/Leetcode-Coding-Solutions/tree/master/0389-find-the-difference) |
 | [0888-fair-candy-swap](https://github.com/MrAman1/Leetcode-Coding-Solutions/tree/master/0888-fair-candy-swap) |
+| [1002-find-common-characters](https://github.com/MrAman1/Leetcode-Coding-Solutions/tree/master/1002-find-common-characters) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -48,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0139-word-break](https://github.com/MrAman1/Leetcode-Coding-Solutions/tree/master/0139-word-break) |
 | [0888-fair-candy-swap](https://github.com/MrAman1/Leetcode-Coding-Solutions/tree/master/0888-fair-candy-swap) |
+| [1002-find-common-characters](https://github.com/MrAman1/Leetcode-Coding-Solutions/tree/master/1002-find-common-characters) |
 ## Binary Search
 |  |
 | ------- |
