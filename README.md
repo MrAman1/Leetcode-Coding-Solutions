@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/MrAman1/Leetcode-Coding-Solutions/tree/master/0008-string-to-integer-atoi) |
+| [0014-longest-common-prefix](https://github.com/MrAman1/Leetcode-Coding-Solutions/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/MrAman1/Leetcode-Coding-Solutions/tree/master/0020-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/MrAman1/Leetcode-Coding-Solutions/tree/master/0058-length-of-last-word) |
 | [0139-word-break](https://github.com/MrAman1/Leetcode-Coding-Solutions/tree/master/0139-word-break) |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/MrAman1/Leetcode-Coding-Solutions/tree/master/0001-two-sum) |
+| [0014-longest-common-prefix](https://github.com/MrAman1/Leetcode-Coding-Solutions/tree/master/0014-longest-common-prefix) |
 | [0139-word-break](https://github.com/MrAman1/Leetcode-Coding-Solutions/tree/master/0139-word-break) |
 | [0888-fair-candy-swap](https://github.com/MrAman1/Leetcode-Coding-Solutions/tree/master/0888-fair-candy-swap) |
 | [1002-find-common-characters](https://github.com/MrAman1/Leetcode-Coding-Solutions/tree/master/1002-find-common-characters) |
@@ -72,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Trie
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/MrAman1/Leetcode-Coding-Solutions/tree/master/0014-longest-common-prefix) |
 | [0139-word-break](https://github.com/MrAman1/Leetcode-Coding-Solutions/tree/master/0139-word-break) |
 ## Memoization
 |  |
