@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/MrAman1/Leetcode-Coding-Solutions/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/MrAman1/Leetcode-Coding-Solutions/tree/master/0014-longest-common-prefix) |
+| [0027-remove-element](https://github.com/MrAman1/Leetcode-Coding-Solutions/tree/master/0027-remove-element) |
 | [0139-word-break](https://github.com/MrAman1/Leetcode-Coding-Solutions/tree/master/0139-word-break) |
 | [0888-fair-candy-swap](https://github.com/MrAman1/Leetcode-Coding-Solutions/tree/master/0888-fair-candy-swap) |
 | [1002-find-common-characters](https://github.com/MrAman1/Leetcode-Coding-Solutions/tree/master/1002-find-common-characters) |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0027-remove-element](https://github.com/MrAman1/Leetcode-Coding-Solutions/tree/master/0027-remove-element) |
 | [0345-reverse-vowels-of-a-string](https://github.com/MrAman1/Leetcode-Coding-Solutions/tree/master/0345-reverse-vowels-of-a-string) |
 ## Dynamic Programming
 |  |
