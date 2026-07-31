@@ -91,4 +91,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/MrAman1/Leetcode-Coding-Solutions/tree/master/0020-valid-parentheses) |
+## Database
+|  |
+| ------- |
+| [0182-duplicate-emails](https://github.com/MrAman1/Leetcode-Coding-Solutions/tree/master/0182-duplicate-emails) |
 <!---LeetCode Topics End-->
