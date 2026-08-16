@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/MrAman1/Leetcode-Coding-Solutions/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/MrAman1/Leetcode-Coding-Solutions/tree/master/0009-palindrome-number) |
+| [0043-multiply-strings](https://github.com/MrAman1/Leetcode-Coding-Solutions/tree/master/0043-multiply-strings) |
 | [0069-sqrtx](https://github.com/MrAman1/Leetcode-Coding-Solutions/tree/master/0069-sqrtx) |
 | [0258-add-digits](https://github.com/MrAman1/Leetcode-Coding-Solutions/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/MrAman1/Leetcode-Coding-Solutions/tree/master/0412-fizz-buzz) |
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0008-string-to-integer-atoi](https://github.com/MrAman1/Leetcode-Coding-Solutions/tree/master/0008-string-to-integer-atoi) |
 | [0014-longest-common-prefix](https://github.com/MrAman1/Leetcode-Coding-Solutions/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/MrAman1/Leetcode-Coding-Solutions/tree/master/0020-valid-parentheses) |
+| [0043-multiply-strings](https://github.com/MrAman1/Leetcode-Coding-Solutions/tree/master/0043-multiply-strings) |
 | [0058-length-of-last-word](https://github.com/MrAman1/Leetcode-Coding-Solutions/tree/master/0058-length-of-last-word) |
 | [0139-word-break](https://github.com/MrAman1/Leetcode-Coding-Solutions/tree/master/0139-word-break) |
 | [0345-reverse-vowels-of-a-string](https://github.com/MrAman1/Leetcode-Coding-Solutions/tree/master/0345-reverse-vowels-of-a-string) |
@@ -35,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/MrAman1/Leetcode-Coding-Solutions/tree/master/0043-multiply-strings) |
 | [0258-add-digits](https://github.com/MrAman1/Leetcode-Coding-Solutions/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/MrAman1/Leetcode-Coding-Solutions/tree/master/0412-fizz-buzz) |
 ## Hash Table
