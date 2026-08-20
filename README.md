@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/MrAman1/Leetcode-Coding-Solutions/tree/master/0009-palindrome-number) |
 | [0043-multiply-strings](https://github.com/MrAman1/Leetcode-Coding-Solutions/tree/master/0043-multiply-strings) |
 | [0069-sqrtx](https://github.com/MrAman1/Leetcode-Coding-Solutions/tree/master/0069-sqrtx) |
+| [0070-climbing-stairs](https://github.com/MrAman1/Leetcode-Coding-Solutions/tree/master/0070-climbing-stairs) |
 | [0258-add-digits](https://github.com/MrAman1/Leetcode-Coding-Solutions/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/MrAman1/Leetcode-Coding-Solutions/tree/master/0412-fizz-buzz) |
 ## Recursion
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/MrAman1/Leetcode-Coding-Solutions/tree/master/0070-climbing-stairs) |
 | [0139-word-break](https://github.com/MrAman1/Leetcode-Coding-Solutions/tree/master/0139-word-break) |
 | [0392-is-subsequence](https://github.com/MrAman1/Leetcode-Coding-Solutions/tree/master/0392-is-subsequence) |
 ## Trie
@@ -95,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/MrAman1/Leetcode-Coding-Solutions/tree/master/0070-climbing-stairs) |
 | [0139-word-break](https://github.com/MrAman1/Leetcode-Coding-Solutions/tree/master/0139-word-break) |
 ## Stack
 |  |
