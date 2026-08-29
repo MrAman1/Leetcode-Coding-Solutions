@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/MrAman1/Leetcode-Coding-Solutions/tree/master/0088-merge-sorted-array) |
 | [0389-find-the-difference](https://github.com/MrAman1/Leetcode-Coding-Solutions/tree/master/0389-find-the-difference) |
 | [0888-fair-candy-swap](https://github.com/MrAman1/Leetcode-Coding-Solutions/tree/master/0888-fair-candy-swap) |
+| [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/MrAman1/Leetcode-Coding-Solutions/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 ## Array
 |  |
 | ------- |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/MrAman1/Leetcode-Coding-Solutions/tree/master/0139-word-break) |
 | [0888-fair-candy-swap](https://github.com/MrAman1/Leetcode-Coding-Solutions/tree/master/0888-fair-candy-swap) |
 | [1002-find-common-characters](https://github.com/MrAman1/Leetcode-Coding-Solutions/tree/master/1002-find-common-characters) |
+| [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/MrAman1/Leetcode-Coding-Solutions/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 ## Binary Search
 |  |
 | ------- |
@@ -118,4 +120,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/MrAman1/Leetcode-Coding-Solutions/tree/master/0141-linked-list-cycle) |
+## Union-Find
+|  |
+| ------- |
+| [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/MrAman1/Leetcode-Coding-Solutions/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 <!---LeetCode Topics End-->
