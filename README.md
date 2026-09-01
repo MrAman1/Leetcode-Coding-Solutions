@@ -51,11 +51,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/MrAman1/Leetcode-Coding-Solutions/tree/master/0389-find-the-difference) |
 | [0888-fair-candy-swap](https://github.com/MrAman1/Leetcode-Coding-Solutions/tree/master/0888-fair-candy-swap) |
 | [1002-find-common-characters](https://github.com/MrAman1/Leetcode-Coding-Solutions/tree/master/1002-find-common-characters) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/MrAman1/Leetcode-Coding-Solutions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0136-single-number](https://github.com/MrAman1/Leetcode-Coding-Solutions/tree/master/0136-single-number) |
 | [0389-find-the-difference](https://github.com/MrAman1/Leetcode-Coding-Solutions/tree/master/0389-find-the-difference) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/MrAman1/Leetcode-Coding-Solutions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Sorting
 |  |
 | ------- |
@@ -76,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1002-find-common-characters](https://github.com/MrAman1/Leetcode-Coding-Solutions/tree/master/1002-find-common-characters) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/MrAman1/Leetcode-Coding-Solutions/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/MrAman1/Leetcode-Coding-Solutions/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/MrAman1/Leetcode-Coding-Solutions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Binary Search
 |  |
 | ------- |
@@ -129,4 +132,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/MrAman1/Leetcode-Coding-Solutions/tree/master/2091-removing-minimum-and-maximum-from-array) |
+## Breadth-First Search
+|  |
+| ------- |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/MrAman1/Leetcode-Coding-Solutions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
+## Matrix
+|  |
+| ------- |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/MrAman1/Leetcode-Coding-Solutions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 <!---LeetCode Topics End-->
