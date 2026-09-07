@@ -1,38 +1,33 @@
 class Solution {
     public int myAtoi(String s) {
+          int i = 0, sign = 1;
+        long result = 0;
 
-        int i = 0;
-        int n = s.length();
-        int sign = 1;
-        long num = 0;
+       
+        while(i < s.length() && s.charAt(i) == ' ')
+            i++;
 
-        // Skip spaces
-        while (i < n && s.charAt(i) == ' ') {
+    
+        if(i < s.length() && (s.charAt(i) == '+' || s.charAt(i) == '-')){
+            if(s.charAt(i) == '-') sign = -1;
             i++;
         }
 
-        // Check sign
-        if (i < n && (s.charAt(i) == '+' || s.charAt(i) == '-')) {
-            if (s.charAt(i) == '-') {
-                sign = -1;
-            }
-            i++;
-        }
+        
+        while(i < s.length() && Character.isDigit(s.charAt(i))){
 
-        // Read digits
-        while (i < n && Character.isDigit(s.charAt(i))) {
+            result = result * 10 + (s.charAt(i) - '0');
 
-            num = num * 10 + (s.charAt(i) - '0');
-
-            if (sign * num > Integer.MAX_VALUE)
+           
+            if(sign * result > Integer.MAX_VALUE)
                 return Integer.MAX_VALUE;
 
-            if (sign * num < Integer.MIN_VALUE)
+            if(sign * result < Integer.MIN_VALUE)
                 return Integer.MIN_VALUE;
 
             i++;
         }
 
-        return (int)(sign * num);
+        return (int)(sign * result);
     }
 }
