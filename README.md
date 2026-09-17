@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/MrAman1/Leetcode-Coding-Solutions/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/MrAman1/Leetcode-Coding-Solutions/tree/master/0136-single-number) |
 | [0139-word-break](https://github.com/MrAman1/Leetcode-Coding-Solutions/tree/master/0139-word-break) |
+| [0303-range-sum-query-immutable](https://github.com/MrAman1/Leetcode-Coding-Solutions/tree/master/0303-range-sum-query-immutable) |
 | [0888-fair-candy-swap](https://github.com/MrAman1/Leetcode-Coding-Solutions/tree/master/0888-fair-candy-swap) |
 | [1002-find-common-characters](https://github.com/MrAman1/Leetcode-Coding-Solutions/tree/master/1002-find-common-characters) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/MrAman1/Leetcode-Coding-Solutions/tree/master/2091-removing-minimum-and-maximum-from-array) |
@@ -140,4 +141,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/MrAman1/Leetcode-Coding-Solutions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
+## Design
+|  |
+| ------- |
+| [0303-range-sum-query-immutable](https://github.com/MrAman1/Leetcode-Coding-Solutions/tree/master/0303-range-sum-query-immutable) |
+## Prefix Sum
+|  |
+| ------- |
+| [0303-range-sum-query-immutable](https://github.com/MrAman1/Leetcode-Coding-Solutions/tree/master/0303-range-sum-query-immutable) |
 <!---LeetCode Topics End-->
