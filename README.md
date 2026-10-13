@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/MrAman1/Leetcode-Coding-Solutions/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/MrAman1/Leetcode-Coding-Solutions/tree/master/0125-valid-palindrome) |
 | [0139-word-break](https://github.com/MrAman1/Leetcode-Coding-Solutions/tree/master/0139-word-break) |
+| [0306-additive-number](https://github.com/MrAman1/Leetcode-Coding-Solutions/tree/master/0306-additive-number) |
 | [0345-reverse-vowels-of-a-string](https://github.com/MrAman1/Leetcode-Coding-Solutions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0389-find-the-difference](https://github.com/MrAman1/Leetcode-Coding-Solutions/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/MrAman1/Leetcode-Coding-Solutions/tree/master/0392-is-subsequence) |
@@ -159,4 +160,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2778-sum-of-squares-of-special-elements](https://github.com/MrAman1/Leetcode-Coding-Solutions/tree/master/2778-sum-of-squares-of-special-elements) |
+## Backtracking
+|  |
+| ------- |
+| [0306-additive-number](https://github.com/MrAman1/Leetcode-Coding-Solutions/tree/master/0306-additive-number) |
 <!---LeetCode Topics End-->
