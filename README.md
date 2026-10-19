@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0345-reverse-vowels-of-a-string](https://github.com/MrAman1/Leetcode-Coding-Solutions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0389-find-the-difference](https://github.com/MrAman1/Leetcode-Coding-Solutions/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/MrAman1/Leetcode-Coding-Solutions/tree/master/0392-is-subsequence) |
+| [0409-longest-palindrome](https://github.com/MrAman1/Leetcode-Coding-Solutions/tree/master/0409-longest-palindrome) |
 | [0412-fizz-buzz](https://github.com/MrAman1/Leetcode-Coding-Solutions/tree/master/0412-fizz-buzz) |
 | [1002-find-common-characters](https://github.com/MrAman1/Leetcode-Coding-Solutions/tree/master/1002-find-common-characters) |
 ## Simulation
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/MrAman1/Leetcode-Coding-Solutions/tree/master/0139-word-break) |
 | [0141-linked-list-cycle](https://github.com/MrAman1/Leetcode-Coding-Solutions/tree/master/0141-linked-list-cycle) |
 | [0389-find-the-difference](https://github.com/MrAman1/Leetcode-Coding-Solutions/tree/master/0389-find-the-difference) |
+| [0409-longest-palindrome](https://github.com/MrAman1/Leetcode-Coding-Solutions/tree/master/0409-longest-palindrome) |
 | [0888-fair-candy-swap](https://github.com/MrAman1/Leetcode-Coding-Solutions/tree/master/0888-fair-candy-swap) |
 | [1002-find-common-characters](https://github.com/MrAman1/Leetcode-Coding-Solutions/tree/master/1002-find-common-characters) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/MrAman1/Leetcode-Coding-Solutions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
@@ -139,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0409-longest-palindrome](https://github.com/MrAman1/Leetcode-Coding-Solutions/tree/master/0409-longest-palindrome) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/MrAman1/Leetcode-Coding-Solutions/tree/master/2091-removing-minimum-and-maximum-from-array) |
 ## Breadth-First Search
 |  |
