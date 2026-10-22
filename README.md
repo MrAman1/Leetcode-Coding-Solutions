@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0409-longest-palindrome](https://github.com/MrAman1/Leetcode-Coding-Solutions/tree/master/0409-longest-palindrome) |
 | [0412-fizz-buzz](https://github.com/MrAman1/Leetcode-Coding-Solutions/tree/master/0412-fizz-buzz) |
 | [1002-find-common-characters](https://github.com/MrAman1/Leetcode-Coding-Solutions/tree/master/1002-find-common-characters) |
+| [1309-decrypt-string-from-alphabet-to-integer-mapping](https://github.com/MrAman1/Leetcode-Coding-Solutions/tree/master/1309-decrypt-string-from-alphabet-to-integer-mapping) |
 ## Simulation
 |  |
 | ------- |
