@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/MrAman1/Leetcode-Coding-Solutions/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/MrAman1/Leetcode-Coding-Solutions/tree/master/0009-palindrome-number) |
 | [0043-multiply-strings](https://github.com/MrAman1/Leetcode-Coding-Solutions/tree/master/0043-multiply-strings) |
+| [0067-add-binary](https://github.com/MrAman1/Leetcode-Coding-Solutions/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/MrAman1/Leetcode-Coding-Solutions/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/MrAman1/Leetcode-Coding-Solutions/tree/master/0070-climbing-stairs) |
 | [0258-add-digits](https://github.com/MrAman1/Leetcode-Coding-Solutions/tree/master/0258-add-digits) |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/MrAman1/Leetcode-Coding-Solutions/tree/master/0020-valid-parentheses) |
 | [0043-multiply-strings](https://github.com/MrAman1/Leetcode-Coding-Solutions/tree/master/0043-multiply-strings) |
 | [0058-length-of-last-word](https://github.com/MrAman1/Leetcode-Coding-Solutions/tree/master/0058-length-of-last-word) |
+| [0067-add-binary](https://github.com/MrAman1/Leetcode-Coding-Solutions/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/MrAman1/Leetcode-Coding-Solutions/tree/master/0125-valid-palindrome) |
 | [0139-word-break](https://github.com/MrAman1/Leetcode-Coding-Solutions/tree/master/0139-word-break) |
 | [0306-additive-number](https://github.com/MrAman1/Leetcode-Coding-Solutions/tree/master/0306-additive-number) |
@@ -44,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/MrAman1/Leetcode-Coding-Solutions/tree/master/0043-multiply-strings) |
+| [0067-add-binary](https://github.com/MrAman1/Leetcode-Coding-Solutions/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/MrAman1/Leetcode-Coding-Solutions/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/MrAman1/Leetcode-Coding-Solutions/tree/master/0412-fizz-buzz) |
 ## Hash Table
@@ -60,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/MrAman1/Leetcode-Coding-Solutions/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/MrAman1/Leetcode-Coding-Solutions/tree/master/0136-single-number) |
 | [0389-find-the-difference](https://github.com/MrAman1/Leetcode-Coding-Solutions/tree/master/0389-find-the-difference) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/MrAman1/Leetcode-Coding-Solutions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
