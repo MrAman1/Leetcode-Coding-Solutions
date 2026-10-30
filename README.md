@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/MrAman1/Leetcode-Coding-Solutions/tree/master/0392-is-subsequence) |
 | [0409-longest-palindrome](https://github.com/MrAman1/Leetcode-Coding-Solutions/tree/master/0409-longest-palindrome) |
 | [0412-fizz-buzz](https://github.com/MrAman1/Leetcode-Coding-Solutions/tree/master/0412-fizz-buzz) |
+| [0859-buddy-strings](https://github.com/MrAman1/Leetcode-Coding-Solutions/tree/master/0859-buddy-strings) |
 | [1002-find-common-characters](https://github.com/MrAman1/Leetcode-Coding-Solutions/tree/master/1002-find-common-characters) |
 | [1309-decrypt-string-from-alphabet-to-integer-mapping](https://github.com/MrAman1/Leetcode-Coding-Solutions/tree/master/1309-decrypt-string-from-alphabet-to-integer-mapping) |
 ## Simulation
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/MrAman1/Leetcode-Coding-Solutions/tree/master/0141-linked-list-cycle) |
 | [0389-find-the-difference](https://github.com/MrAman1/Leetcode-Coding-Solutions/tree/master/0389-find-the-difference) |
 | [0409-longest-palindrome](https://github.com/MrAman1/Leetcode-Coding-Solutions/tree/master/0409-longest-palindrome) |
+| [0859-buddy-strings](https://github.com/MrAman1/Leetcode-Coding-Solutions/tree/master/0859-buddy-strings) |
 | [0888-fair-candy-swap](https://github.com/MrAman1/Leetcode-Coding-Solutions/tree/master/0888-fair-candy-swap) |
 | [1002-find-common-characters](https://github.com/MrAman1/Leetcode-Coding-Solutions/tree/master/1002-find-common-characters) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/MrAman1/Leetcode-Coding-Solutions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
