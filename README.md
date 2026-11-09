@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0168-excel-sheet-column-title](https://github.com/MrAman1/Leetcode-Coding-Solutions/tree/master/0168-excel-sheet-column-title) |
 | [0306-additive-number](https://github.com/MrAman1/Leetcode-Coding-Solutions/tree/master/0306-additive-number) |
 | [0345-reverse-vowels-of-a-string](https://github.com/MrAman1/Leetcode-Coding-Solutions/tree/master/0345-reverse-vowels-of-a-string) |
+| [0387-first-unique-character-in-a-string](https://github.com/MrAman1/Leetcode-Coding-Solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/MrAman1/Leetcode-Coding-Solutions/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/MrAman1/Leetcode-Coding-Solutions/tree/master/0392-is-subsequence) |
 | [0409-longest-palindrome](https://github.com/MrAman1/Leetcode-Coding-Solutions/tree/master/0409-longest-palindrome) |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/MrAman1/Leetcode-Coding-Solutions/tree/master/0001-two-sum) |
 | [0139-word-break](https://github.com/MrAman1/Leetcode-Coding-Solutions/tree/master/0139-word-break) |
 | [0141-linked-list-cycle](https://github.com/MrAman1/Leetcode-Coding-Solutions/tree/master/0141-linked-list-cycle) |
+| [0387-first-unique-character-in-a-string](https://github.com/MrAman1/Leetcode-Coding-Solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/MrAman1/Leetcode-Coding-Solutions/tree/master/0389-find-the-difference) |
 | [0409-longest-palindrome](https://github.com/MrAman1/Leetcode-Coding-Solutions/tree/master/0409-longest-palindrome) |
 | [0859-buddy-strings](https://github.com/MrAman1/Leetcode-Coding-Solutions/tree/master/0859-buddy-strings) |
@@ -176,4 +178,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0306-additive-number](https://github.com/MrAman1/Leetcode-Coding-Solutions/tree/master/0306-additive-number) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/MrAman1/Leetcode-Coding-Solutions/tree/master/0387-first-unique-character-in-a-string) |
+## Counting
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/MrAman1/Leetcode-Coding-Solutions/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
