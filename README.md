@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/MrAman1/Leetcode-Coding-Solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/MrAman1/Leetcode-Coding-Solutions/tree/master/0389-find-the-difference) |
 | [0409-longest-palindrome](https://github.com/MrAman1/Leetcode-Coding-Solutions/tree/master/0409-longest-palindrome) |
+| [0525-contiguous-array](https://github.com/MrAman1/Leetcode-Coding-Solutions/tree/master/0525-contiguous-array) |
 | [0859-buddy-strings](https://github.com/MrAman1/Leetcode-Coding-Solutions/tree/master/0859-buddy-strings) |
 | [0888-fair-candy-swap](https://github.com/MrAman1/Leetcode-Coding-Solutions/tree/master/0888-fair-candy-swap) |
 | [1002-find-common-characters](https://github.com/MrAman1/Leetcode-Coding-Solutions/tree/master/1002-find-common-characters) |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/MrAman1/Leetcode-Coding-Solutions/tree/master/0136-single-number) |
 | [0139-word-break](https://github.com/MrAman1/Leetcode-Coding-Solutions/tree/master/0139-word-break) |
 | [0303-range-sum-query-immutable](https://github.com/MrAman1/Leetcode-Coding-Solutions/tree/master/0303-range-sum-query-immutable) |
+| [0525-contiguous-array](https://github.com/MrAman1/Leetcode-Coding-Solutions/tree/master/0525-contiguous-array) |
 | [0888-fair-candy-swap](https://github.com/MrAman1/Leetcode-Coding-Solutions/tree/master/0888-fair-candy-swap) |
 | [1002-find-common-characters](https://github.com/MrAman1/Leetcode-Coding-Solutions/tree/master/1002-find-common-characters) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/MrAman1/Leetcode-Coding-Solutions/tree/master/2091-removing-minimum-and-maximum-from-array) |
@@ -170,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/MrAman1/Leetcode-Coding-Solutions/tree/master/0303-range-sum-query-immutable) |
+| [0525-contiguous-array](https://github.com/MrAman1/Leetcode-Coding-Solutions/tree/master/0525-contiguous-array) |
 ## Enumeration
 |  |
 | ------- |
